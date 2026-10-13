@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "standard_version": "1.0.0",
+  "skill": "ecommerce-copy-check",
+  "source_version": "b146a795894c43b7a96449e49b8a6a80b5b141108ea0d22e4a0aa1ba42832b0f",
+  "origin": "original",
+  "stage": "candidate",
+  "upstream": "",
+  "files": {
+    "README.md": "9afc1b4f7c205d35a8cbb90cc93400c98315844b51996dfd33cf2c384f139bf6",
+    "SKILL.md": "c150dacbf8e4505fe8659b5951959d0ac063823f1a7f21de867722c26132fb46"
+  }
+}
